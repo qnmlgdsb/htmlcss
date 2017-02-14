@@ -1,0 +1,20 @@
+
+body,div,dl,dt,dd,ul,li,h1,h2,h3,h4,h5,h6,input,from,a,p,text{
+margin: 0;
+padding: 0;
+font-family:"Times New Roman",Georgia,Serif;
+}
+
+ol,ul,li{
+list style: none;
+}
+
+a{
+text-decoration: none;
+desplay: block;
+}
+
+img{
+border:none;
+display:block;
+}
